@@ -14,8 +14,6 @@ Posibles soluciones desarrolladas para la entrega complementaria.
  # Ejecucion del programa.
  ------------------------
  
- Desde Windows:
- 
  Para ejecutar este archivo deberá contar con alguna versión de python3 en su sistema.
  Para ver su versión de python ejecute el siguiente comando.
  
