@@ -1,7 +1,10 @@
-# Amb-coderhouse
-Ejercio propuesto durante la cursada .
+# --------------------------------------------------- Amb-Coderhouse ------------------------------------------------
 
-Se comparte posible solución para referencia de los estudiantes.
+   Training exercise
+------------------------
 
-En esta solución se emplean los conocimientos adquiridos hasta el momento.
-Diccionarios, listas, metodos de listas, condicionales, alta, modificación y baja de usuario.  
+. Posible solución desarrollada para entrega complementaría.
+
+. En esta solución se aplican los conocimientos adquiridos .
+  Diccionarios, listas, metodos de listas, condicionales,
+. alta, modificación y baja de usuario.  
