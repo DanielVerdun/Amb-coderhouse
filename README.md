@@ -1,10 +1,12 @@
-# --------------------------------------------------- Amb-Coderhouse ------------------------------------------------
+#  Amb-Coderhouse 
 
    Training exercise
 ------------------------
 
-. Posible solución desarrollada para entrega complementaría.
-
-. En esta solución se aplican los conocimientos adquiridos .
-  Diccionarios, listas, metodos de listas, condicionales,
-. alta, modificación y baja de usuario.  
+Posibles soluciones desarrolladas para la entrega complementaria. 
+ El conocimiento obtenido se aplica a esta solución. 
+ diccionario, lista, método de lista, condiciónales, 
+ Alta, modificación y baja de usuarios.
+ 
+ # Requerimiento
+ 
